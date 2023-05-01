@@ -29,9 +29,9 @@ The rover_num can be any rover number from 1-10</br></br>
 
 - If the rover makes it to the end of its commands, it sends a status message to the server stating that it did not die. It receives an acknowledgment back from the server. 
 
-## Sample Output
+## Results
 ![](images/Picture_gRPC_Server.png)
-<br/><br/><br/>
+
 ![](images/PicturegRPC_Client.png)
 
 
