@@ -1,4 +1,4 @@
-# Python_gRPC_Project
+# Python gRPC_Project
 
 This project focuses on utilizing gRPC, an open-source Remote Procedure Call developed by Google, to allow computers to access subroutines from computers in separate networks. By abstracting away the details of network communication, developers can build distributed applications more efficiently, with a focus on the logic of their applications.
 
@@ -30,9 +30,8 @@ The rover_num can be any rover number from 1-10</br></br>
 - If the rover makes it to the end of its commands, it sends a status message to the server stating that it did not die. It receives an acknowledgment back from the server. 
 
 ## Results
-![](images/Picture_gRPC_Server.png)
 
-![](images/PicturegRPC_client.png)
+<img width="468" alt="Picture_gRPC_Server" src="https://user-images.githubusercontent.com/80986273/235550106-9262ad19-c6e6-466c-9522-58a8e9e7bc2b.png">
 
-
+<img width="468" alt="PicturegRPC_Client" src="https://user-images.githubusercontent.com/80986273/235550125-83208af7-e820-4d33-bf10-7270bb4bc731.png">
 
