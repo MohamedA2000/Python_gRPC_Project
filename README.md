@@ -27,5 +27,5 @@ The rover_num can be any rover number from 1-10</br></br>
 
 - However, if the rover lands on a mine and digs on the next move, it will request the server for a random serial number. Once the server sends the serial number, the client finds the PIN to disarm the mine. It sends the PIN and the temporary mine hash to the server and moves to execute its next command.
 
-- If the rover makes it to the end of its commands, it sends a status message to the server stating that it did not die. It receives an acknowledgment back from the server. As an added feature, it writes the path_file to the directory called rover_paths.
+- If the rover makes it to the end of its commands, it sends a status message to the server stating that it did not die. It receives an acknowledgment back from the server. 
 
