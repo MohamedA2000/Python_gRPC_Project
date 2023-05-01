@@ -14,3 +14,4 @@ Then, on a new terminal in the same directory, run the following command:
 ```
 python rover_client.py {rover_num}
 ```
+Where rover_num is the specified rover number from 1-10</br></br>
