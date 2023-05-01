@@ -32,7 +32,7 @@ The rover_num can be any rover number from 1-10</br></br>
 ## Results
 ![](images/Picture_gRPC_Server.png)
 
-![](images/PicturegRPC_Client.png)
+![](images/PicturegRPC_client.png)
 
 
 
